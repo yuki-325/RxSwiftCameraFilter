@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_RxSwiftCameraFilter_RxSwiftCameraFilterUITests : NSObject
+@end
+@implementation PodsDummy_Pods_RxSwiftCameraFilter_RxSwiftCameraFilterUITests
+@end
